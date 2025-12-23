@@ -8,13 +8,8 @@
 > Landing Page de alta fidelidad para una Startup SaaS de Inteligencia Artificial ficticia. Enfocada en diseño UI moderno, animaciones fluidas y optimización de conversión.
 
 ## 🔗 Demo en Vivo
-👉 **[Ver Proyecto Desplegado en Vercel](AQUI_PON_TU_LINK_DE_VERCEL)**
+👉 **[Ver Proyecto Desplegado en Vercel](https://nova-landing-page-silk.vercel.app)**
 
----
-
-## 📸 Vista Previa
-![Screenshot del Proyecto](./screenshot.png)
-*(Si aún no subes la imagen, borra esta línea o pon una url de imagen externa)*
 
 ## ✨ Características Principales
 
@@ -60,8 +55,6 @@ Si deseas correr este proyecto en tu máquina local:
 ## 👤 Autor
 
 **Luis Gabriel**
-* [Perfil de GitHub](https://github.com/[TU_USUARIO])
-* [Perfil de LinkedIn](TU_LINK_DE_LINKEDIN)
 
 ---
 *Este proyecto es parte de mi portafolio profesional como Desarrollador Frontend.*
