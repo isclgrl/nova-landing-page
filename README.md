@@ -30,28 +30,6 @@
 * **Iconos:** React Icons (Fa)
 * **Build Tool:** Vite
 
-## 🚀 Instalación y Uso Local
-
-Si deseas correr este proyecto en tu máquina local:
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[TU_USUARIO]/nova-landing-page.git
-    ```
-
-2.  **Instalar dependencias:**
-    ```bash
-    cd nova-landing-page
-    npm install
-    ```
-
-3.  **Correr el servidor de desarrollo:**
-    ```bash
-    npm run dev
-    ```
-
-4.  Abrir `http://localhost:5173` en tu navegador.
-
 ## 👤 Autor
 
 **Luis Gabriel**
